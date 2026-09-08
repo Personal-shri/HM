@@ -1,3 +1,7 @@
+# Current revision: 03
+
+TV-AND-FURNITURE.md and outputs/main-floor-furniture-v3.svg now govern living-room furniture positions. The primary sofa faces the TV; revision 02 and v1 below are historical where they differ.
+
 # Revision 02 — scaled layout now takes precedence
 
 The earlier rendered views were rejected because they did not reliably reproduce room geometry and openings. Use outputs/main-floor-furniture-v2.svg as the new furniture-layout proposal. The original main-floor wall/opening geometry is reused from the saved drawing generator. An automated comparison confirms every scheduled main-floor opening retains its type, size and coordinates.
