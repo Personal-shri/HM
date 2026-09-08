@@ -1,0 +1,8 @@
+const fs=require('fs');
+const path=require('path');
+const esbuild=require('esbuild');
+const output=path.join(__dirname,'house-3d.html');
+const result=esbuild.buildSync({entryPoints:[path.join(__dirname,'house.js')],bundle:true,write:false,minify:true,format:'iife',legalComments:'inline'});
+const html=fs.readFileSync(path.join(__dirname,'model.html'),'utf8');
+fs.writeFileSync(output,html.replace('<!-- BUNDLE -->',()=>'<script>'+result.outputFiles[0].text.replace(/<\/script/gi,'<\\/script')+'</script>'));
+console.log('Built standalone offline viewer:',output);

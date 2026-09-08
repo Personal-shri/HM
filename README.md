@@ -2,6 +2,14 @@
 
 Private home-design workspace. The latest selected direction is the **American-style family house**. All drawings are preliminary concepts, not construction or permit documents.
 
+## Exterior and 3D
+
+![Proposed exterior](outputs/elevations/exterior-concept-v1.png)
+
+[Exterior and interior concepts](EXTERIOR-CONCEPT.md) · [Interactive 3D — download HTML and open in browser](outputs/model/house-3d.html) · [Interior mood view](outputs/elevations/interior-concept-v1.png)
+
+The images propose an exterior style; the rotatable model explains the building's shape. Neither is a construction-ready model. See the exterior notes for known differences from the plan.
+
 ## Latest plan
 
 ![American house with rear upper bedrooms](outputs/american-upper-rear.png)

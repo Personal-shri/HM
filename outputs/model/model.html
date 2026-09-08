@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HM — House in 3D</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f3f0e9;color:#263d33;font:15px system-ui,sans-serif}header{padding:20px 24px 12px}h1{font-size:25px;margin:0 0 5px}p{margin:0;max-width:900px;line-height:1.5}nav{display:flex;gap:8px;flex-wrap:wrap;padding:12px 24px}button,select{font:inherit;padding:9px 12px;border:1px solid #b6beb5;background:#fff;border-radius:7px;color:#263d33;cursor:pointer}button[aria-pressed=true]{background:#284c3c;color:white}#canvas{height:66vh;min-height:360px;max-height:780px;position:relative}canvas{display:block;width:100%;height:100%;touch-action:none}footer{padding:14px 24px 22px;font-size:13px;line-height:1.55}label{display:flex;align-items:center;gap:8px}#status{font-size:13px;padding:0 24px;min-height:22px} @media(max-width:600px){header,nav,footer{padding-left:14px;padding-right:14px}#canvas{height:58vh}h1{font-size:21px}}
+</style></head><body>
+<header><h1>Your house, in 3D</h1><p>Rotate to explore the front balcony, open terrace and two patios. Drag to orbit · scroll or pinch to zoom.</p></header>
+<nav aria-label="Model controls"><button data-view="front">Front</button><button data-view="angle" aria-pressed="true">Perspective</button><button data-view="rear">Rear</button><button data-view="top">Above</button><label>Exterior <select id="finish"><option value="ivory">Warm ivory + oak</option><option value="sage">Soft sage + cream</option><option value="stone">Sandstone + charcoal</option></select></label><label><input type="checkbox" id="roof" checked> Show roof</label><label><input type="checkbox" id="upper" checked> Show upper floor</label></nav>
+<div id="status" aria-live="polite">44 × 48 ft main footprint · two floors · front/street is toward the entry patio</div>
+<div id="canvas" aria-label="Interactive three dimensional exterior model"></div>
+<footer><strong>Concept model, not construction documentation.</strong> Footprint, floor locations and outdoor recesses follow the latest plan. Heights, roof, railing, posts, materials and exterior details are proposed. Walls are simplified solid masses with surface windows; hiding the roof does not reveal a furnished interior. No garage is modeled. Changes to finishes here are a preview; tell us which you prefer to update the design.</footer>
+<!-- BUNDLE -->
+</body></html>
