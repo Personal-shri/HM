@@ -6,6 +6,10 @@ Home-design workspace published at [Personal-shri/HM](https://github.com/Persona
 
 The website brings the selected exterior, latest plans, interactive 3D, budget notes and downloads together. See [preview and Vercel deployment instructions](WEBSITE.md). Build with `npm run build`; preview with `npm start`.
 
+## Exterior product research
+
+[Exterior-only product research](EXTERIOR-PRODUCT-RESEARCH.md) covers 18 topics with manufacturer sources, published price anchors, unresolved quotations and quality requirements. Website: `/research.html`. Interiors are deferred.
+
 ## Exterior and 3D
 
 **Selected: Option A — Quiet classical.** Ivory plaster, restrained cornices, a shallow entrance arch, dark window frames and railings, and flat roofs concealed by parapets.
