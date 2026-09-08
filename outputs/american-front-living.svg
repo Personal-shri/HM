@@ -85,9 +85,9 @@
 <path d="M510,566 L510,524" stroke="#faf8f3" stroke-width="7" fill="none"/>
 <path d="M510,566 L468,566" stroke="#859084" stroke-width="1.3" fill="none"/>
 <path d="M468,566 A42,42 0 0 1 510,524" stroke="#859084" stroke-width="1.2" fill="none"/>
-<path d="M636,496 L678,496" stroke="#faf8f3" stroke-width="7" fill="none"/>
-<path d="M636,496 L636,538" stroke="#859084" stroke-width="1.3" fill="none"/>
-<path d="M636,538 A42,42 0 0 0 678,496" stroke="#859084" stroke-width="1.2" fill="none"/>
+<path d="M657.0,580 L692,580" stroke="#faf8f3" stroke-width="7" fill="none"/>
+<path d="M622,575.8 L657.0,575.8" stroke="#5795a0" stroke-width="2" fill="none"/>
+<path d="M622,571.5999999999999 L692,571.5999999999999" stroke="#859084" stroke-width="1" fill="none"/>
 <path d="M622,748 L622,706" stroke="#faf8f3" stroke-width="7" fill="none"/>
 <path d="M622,748 L580,748" stroke="#859084" stroke-width="1.3" fill="none"/>
 <path d="M580,748 A42,42 0 0 1 622,706" stroke="#859084" stroke-width="1.2" fill="none"/>

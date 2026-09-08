@@ -10,6 +10,8 @@ Private home-design workspace. The latest selected direction is the **American-s
 
 Latest alternative: great room at the front-left, kitchen at the front-right, bedrooms and service rooms behind; rear patio and a new front-left sitting patio, each 24 × 8 ft. A 6 × 6 ft front foyer is carved out of the great-room planning zone. Both floors are reversed front-to-back to retain stair alignment; the upper balcony and terrace now face the rear. This revision is presented for review.
 
+Storage access revision: the main-floor storeroom now opens from the laundry via an indicative sliding door. The guest-bedroom connection is removed. See the [main-floor detail](outputs/american-front-living-main-floor.png). Sliding-door clearance, laundry equipment, ventilation and shelving require detailed coordination.
+
 Five bedrooms across two floors; downstairs parents' suite and guest room; open great room, island kitchen, dining, pantry, laundry and storage; upstairs family lounge, second kitchen, balcony and terrace. Approximately **3,868 sq ft enclosed**, excluding outdoor areas. A garage is not included. This version sets aside the original India budget.
 
 ## Earlier versions

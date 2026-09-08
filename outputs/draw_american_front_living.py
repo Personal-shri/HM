@@ -19,6 +19,9 @@ source = source.replace("room(24,0,20,14,'','','#f2e5d0',False)", "room(24,0,20,
 source = source.replace('opening(24,5,24,12);', 'opening(24,8,24,14);')
 source = source.replace("txt(*xy(12,3),'GREAT ROOM · 24 × 20 ft',16,True)", "txt(*xy(9,3),'GREAT ROOM',16,True)\n  txt(*xy(9,4.5),'24 × 20 ft overall*',13)\n  wall(18,0,18,6);wall(18,6,24,6)\n  opening(21,6,24,6);opening(20,0,23,0)")
 source = source.replace('win(16,0,21,0);', 'win(16,0,17.5,0);')
+# Access the store from laundry, with a surface-sliding leaf on the store side.
+# Retain the full separating wall to the guest bedroom.
+source = source.replace('door(39,34);', 'opening(40.5,28,43,28);ln(*xy(38,28.3),*xy(40.5,28.3),"#5795a0",2);ln(*xy(38,28.6),*xy(43,28.6),"#859084",1);')
 source = source.replace("'AMERICAN LAYOUT: welcoming foyer → open kitchen / dining / great room → rear patio'", "'FRONT: patio + foyer + great room + kitchen     |     REAR: bedrooms + services + rear patio'")
 source = source.replace("'W.I.C. = walk-in closet. Dimensions are approximate planning zones; finished clear sizes depend on walls.'", "'*Great-room zone includes a 6 × 6 ft foyer. Dimensions are planning zones; finished clear sizes depend on walls.'")
 source = source.replace("'Five bedrooms, five bathrooms, two kitchens, laundry and storage. Garage is not included.'", "'Upper floor also mirrored to keep stairs aligned; its balcony and terrace now face the rear. W.I.C. = walk-in closet.'")

@@ -27,6 +27,8 @@
 
 ## Budget context
 
+Storage access refinement: removed the door between the main-floor guest bedroom and storeroom in the front-living alternative. Added an indicative surface-sliding door from laundry into the storeroom. This keeps storage circulation out of the guest bedroom without adding floor area. Final door width, equipment positions, shelving and humidity control remain to be designed.
+
 Earlier illustrative budget: ₹35 lakh building, ₹3 lakh basic cabinetry/interiors, ₹1.5 lakh professional fees/testing/approvals, ₹1.5 lakh external works/connections, ₹4 lakh contingency. These were spending targets, not quotations.
 
 Using the previously assumed ₹2,000/sq ft solely as an illustration, the 2,316 sq ft enlarged plan would consume ₹46.32 lakh for construction alone; retaining ₹10 lakh for other allowances would give ₹56.32 lakh. The enlarged options were explicitly not represented as fitting ₹45 lakh. No construction budget has been established for the latest American-style plan.
