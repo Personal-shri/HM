@@ -23,6 +23,7 @@
 3. Larger-room option: 34 × 36 ft footprint; about 2,316 sq ft enclosed, plus 132 sq ft terrace. Four 14 × 14 ft bedroom zones, one 14 × 12 ft bedroom zone, and downstairs laundry.
 4. Separate-living option: retained large bedrooms, provided a separate walking route and furnished living-room concept, reduced main kitchen to an 8 × 10 ft zone, moved laundry upstairs, and proposed storage under stairs subject to headroom. About 2,352 sq ft enclosed, plus 96 sq ft terrace.
 5. Latest direction: user requested a house designed for America, setting aside the India context. American family-house concept has a 44 × 48 ft main footprint, about 2,112 sq ft enclosed downstairs and 1,756 upstairs, plus porch, patio/deck, balcony and terrace. Five bedrooms, five bathrooms, two kitchens, laundry and storage. No garage. User accepted this as the starting point.
+6. Front-living alternative: user requested moving the main great room and kitchen to the front, other main-floor spaces behind, keeping a rear patio and adding an outdoor area at the front-left. The new drawing reverses both stories front-to-back for stair alignment, with the great room front-left and kitchen front-right. Rear and front-left patios each measure 24 × 8 ft. A 6 × 6 ft foyer is included within the 24 × 20 ft great-room zone; the remaining great-room zone is approximately 444 sq ft before wall deductions. Enclosed area remains approximately 3,868 sq ft. Upper-floor outdoor areas now face the rear. Original versions are retained. This alternative awaits user review.
 
 ## Budget context
 
