@@ -24,3 +24,7 @@ Use the header selector for English, Hindi or Marathi. The preference persists b
 `/guides/overview.html` contains an annotated facade linking to five numbered guides with layer diagrams, quantity calculators and a purchasing-note form. Values are illustrative; supplier rates are explicitly requested where unknown. Notes stay in the page session until downloaded.
 
 Checked: all 18 principal/document/guide routes in three languages, mobile overflow, 41 local links, calculator arithmetic and validation, translated purchasing-note downloads and iframe language persistence.
+
+Project execution workbook: `/project.html` covers all 11 workstreams with owners, current state and completion evidence. `/comparison.html` presents two unapproved 1,500 sq ft room-area programmes separately from the saved plan. `/control.html` provides a 14-package ₹45 lakh allocation tracker, three-quote comparison and decision notes. Blank forecasts remain unknown. Storage is local to the browser/origin; JSON backups are downloads, not cloud sync. Templates are downloadable at `/downloads/CONTRACTOR-HANDOVER.md` and `/downloads/PROJECT-ROADMAP.md`.
+
+Validation: three new pages checked at mobile width in English/Hindi/Marathi; budget sum, incomplete forecasts, payments exceeding forecast, quote differences, reload persistence and backup downloads checked. Catalogue numeric audit passed. All physical surveys, engineering, authority approvals, supplier quotations and sample approvals remain outstanding.

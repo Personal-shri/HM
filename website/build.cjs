@@ -15,6 +15,7 @@ copy('EXTERIOR-PRODUCT-RESEARCH.md','downloads/EXTERIOR-PRODUCT-RESEARCH.md');
 fs.writeFileSync(path.join(out,'research.html'),layout('Exterior research','research',require('./research.cjs')(markdown)));
 fs.mkdirSync(path.join(out,'guides'),{recursive:true});
 for(const [slug,html] of Object.entries(require('./guides.cjs')))fs.writeFileSync(path.join(out,'guides',slug+'.html'),layout('Exterior construction guide','research',html));
+copy('website/CONTRACTOR-HANDOVER.md','downloads/CONTRACTOR-HANDOVER.md');
 const project=require('./project.cjs');
 for(const [slug,body] of Object.entries(project.pages))fs.writeFileSync(path.join(out,slug+'.html'),layout(slug==='project'?'Project roadmap':slug==='comparison'?'Size and budget comparison':'Project workbook','project',body));
 fs.writeFileSync(path.join(out,'downloads/PROJECT-ROADMAP.md'),project.brief);

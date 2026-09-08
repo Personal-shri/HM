@@ -28,6 +28,8 @@ extra=[
  'Exterior purchasing note','Purchasing note downloaded. Nothing was sent to a supplier.','research topics','of','Selected A','front','rear','left','right','top','angle','view','drag to rotate; scroll to zoom','proposed matching elevation','selected front reference','appearance concept','Exterior preview','layout remains unchanged','Front · approved appearance reference','Left side · proposed elevation · front is on the right','Right side · proposed elevation · front is on the left','Rear · proposed elevation and patio','Main floor','Parents bedroom','Guest bedroom','Dining','Great room','Kitchen','Laundry','Store','Pantry','Stairs','Bathroom','Entrance','Overview','Walk mode','drag to look, use arrows or WASD to move','Return to walking','close overhead view; drag to rotate','actual saved photo sample; scaled model governs geometry. Utility and hall images remain finish studies.','No coordinated stair photo exists yet. The stair footprint is reserved.','Overview · drag to orbit; scroll or pinch to zoom · choose a room to walk',
 ]
 texts.update(extra)
+tracker=(root/'website/project-tracker.js').read_text()
+texts.update(re.findall(r"\bt\('([^']+)'\)",tracker))
 # Preserve identifiers and measurements. Prose containing them is still translated.
 def preserve(s):
  return not re.search('[A-Za-z]',s) or bool(re.fullmatch(r'[\d\s.,₹%×/–—+():²³\-]*(?:sq ft|sq\.ft|ft|m²|m³|kg|mm|cm|m|L|W|K|IP\d+)[\d\s.,₹%×/–—+():²³\-]*',s)) or s in ['HM','RCC','SVG','PNG','HTML','IP44','IP65','IP66','English','SikaTop-107 Seal Plus IN','Apex Dust Proof Emulsion','Apex Ultima Protek'] or s.startswith(('http','₹')) and len(s)<30
