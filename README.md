@@ -4,6 +4,8 @@ Private home-design workspace. The latest selected direction is the **American-s
 
 ## Exterior and 3D
 
+Latest front-only exploration: [Royal haveli-inspired facade sample](outputs/elevations/royal-front-sample-v1.png). This is a proposed alternative awaiting review; the 3D viewer still shows the previous contemporary exterior.
+
 ![Proposed exterior](outputs/elevations/exterior-concept-v1.png)
 
 [Exterior and interior concepts](EXTERIOR-CONCEPT.md) · [Interactive 3D — download HTML and open in browser](outputs/model/house-3d.html) · [Interior mood view](outputs/elevations/interior-concept-v1.png)

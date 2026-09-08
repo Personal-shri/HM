@@ -1,5 +1,11 @@
 # Exterior appearance and interactive 3D
 
+## Royal front-only alternative
+
+The user requested a straight-on front view inspired by royal residences. [Sample v1](outputs/elevations/royal-front-sample-v1.png) proposes a pale sandstone/ivory haveli character, carved entrance, scalloped balcony arches, columns, ornamental cornices and balustrades. The left covered balcony and right open terrace are retained conceptually. Recommendation: concentrate ornament at the entrance and balcony and simplify other surfaces before finalizing the elevation.
+
+This is an unapproved front-facade sample. The ornamental parapet replaces the earlier proposed pitched-roof appearance; roof drainage, structural loads, maintenance and cost need separate coordination. Floor plans, opening schedule and 3D viewer remain unchanged. Like the previous image, the render simplifies some great-room frontage openings. [Built-in image-generation prompt](outputs/elevations/ROYAL-FRONT-PROMPT.md).
+
 ## Appearance proposal
 
 Warm ivory walls, charcoal roof/window frames, oak-tone front door and balcony ceiling, restrained pale stone accents, dark metal railings and simple landscaping. Front-left covered upper balcony; front-right open upper terrace; front-left ground sitting patio and a rear patio.
