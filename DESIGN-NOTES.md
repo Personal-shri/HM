@@ -41,6 +41,8 @@ Initial research references (indicative information only; not verified contracto
 
 ## Open decisions
 
+Latest dimensional revision adds a nominal door/window schedule and larger window assemblies. Geometry and areas are unchanged. Preliminary pricing assumes construction of the American-style concept near Latur; see COST-ESTIMATE.md. The window schedule totals 596 sq ft, with two additional 7 × 8 ft glazed sliding doors. Final framing, glass, operable portions, sills/heads and shading remain unconfirmed.
+
 - Whether to ultimately build the American-style concept in India or elsewhere.
 - Final total budget, finished floor area and finish specifications.
 - Compass orientation, surveyed site conditions and jurisdiction-specific requirements.

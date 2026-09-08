@@ -4,9 +4,11 @@ Private home-design workspace. The latest selected direction is the **American-s
 
 ## Latest plan
 
-![American house with front living](outputs/american-front-living.png)
+![American house with dimensioned doors and large windows](outputs/american-dimensioned.png)
 
-[Full-size PNG](outputs/american-front-living.png) · [Editable SVG](outputs/american-front-living.svg)
+[Full-size PNG](outputs/american-dimensioned.png) · [Editable SVG](outputs/american-dimensioned.svg) · [Door/window schedule](OPENING-SCHEDULE.md) · [Cost estimate for Latur](COST-ESTIMATE.md)
+
+The latest drawing adds nominal door widths/heights, larger window assemblies, glazed patio doors, and dimension chains. The estimate assumes construction near Latur and distinguishes base construction from opening upgrades, outdoors, interiors, fees and contingency.
 
 Latest alternative: great room at the front-left, kitchen at the front-right, bedrooms and service rooms behind; rear patio and a new front-left sitting patio, each 24 × 8 ft. A 6 × 6 ft front foyer is carved out of the great-room planning zone. Both floors are reversed front-to-back to retain stair alignment; the upper balcony and terrace now face the rear. This revision is presented for review.
 
@@ -39,6 +41,7 @@ python3 outputs/draw_larger_plan.py
 python3 outputs/draw_seating_plan.py
 python3 outputs/draw_american_plan.py
 python3 outputs/draw_american_front_living.py
+python3 outputs/draw_dimensioned_plan.py
 ```
 
 The scripts locate their files relative to their own directory. PNG exports are included; a vector-image renderer can export newly generated SVGs to PNG.
