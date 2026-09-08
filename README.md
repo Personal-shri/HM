@@ -84,3 +84,7 @@ The scripts locate their files relative to their own directory. PNG exports are 
 ## Before building
 
 Room dimensions describe planning zones, not finished clear dimensions. A qualified local architect and engineers must resolve furniture clearances, wall thickness, structural support, plumbing, ventilation, egress, stairs, site setbacks and applicable requirements. Area and cost figures are preliminary, and no version has been approved or priced by a contractor.
+
+## Furnished interior explorer · Version 2
+
+[Download version 2](outputs/model/interior-walkthrough-v2.html): start with an orbitable cutaway, choose a room to walk inside, use Room overhead for a closer look, or open Room photo to compare a saved sample. Eight photos are embedded for offline use. Version 1 remains available. Furniture footprints follow revision 03; decorative details and photos are illustrative.

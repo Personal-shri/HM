@@ -21,3 +21,11 @@ Checked in desktop Chrome and a mobile-sized viewport: no page errors, all 14 ro
 ## Rebuild
 
 Run python3 outputs/model/extract-interior.py to refresh the geometry data from the drawing generator. Then run node outputs/model/build-interior.cjs to bundle the offline viewer using the existing Three.js and esbuild dependencies under outputs/model. Finally npm run build refreshes the website distribution. The viewer is linked from Interiors, Explore 3D and Downloads.
+
+## Version 2 — furnished explorer
+
+Open `outputs/model/interior-walkthrough-v2.html`. It starts in an orbitable cutaway overview with nominal room-size badges. Choose a room to enter walk mode, or use Room overhead for a focused orbit view. Cutaway walls and Room sizes can be toggled in overview. Room photo opens the corresponding saved reference; Back to 3D or Escape closes it. All eight reference images are embedded, so the downloaded HTML works offline. Version 1 is retained unchanged.
+
+Furniture now includes cushions, sofa backs and arms, bed frames and pillows, table and chair legs, cabinet fronts, shelves and appliances. Original collision footprints and room geometry are retained. Added furniture heights, cabinet details, kitchen fittings and curtains are visualization proposals. Photos are displayed alongside the model, not converted into faithful 3D geometry. Hall and utility references contain known layout differences; the scaled plan governs. Bathroom fixture layouts and a climbable stair are still excluded.
+
+Build with `node outputs/model/build-interior-v2.cjs`, then `npm run build`. Verified desktop and mobile rendering, all room/photo shortcuts, and no browser errors or horizontal mobile overflow.
