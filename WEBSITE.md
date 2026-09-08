@@ -14,4 +14,4 @@ This repository is public, so its committed plans, images and source files are p
 
 ## Updating
 
-Edit website/index.html, style.css and app.js. The build reads the existing cost, opening and design notes from the repository. Rebuild the standalone model separately with `node outputs/model/build.cjs` if its model sources or embedded images change, then run the website build.
+Edit the page content in website/pages/, the shared shell in website/layout.cjs, and website/style.css or website/app.js. Each main aspect has its own URL: /exterior.html, /plans.html, /explore.html, /budget.html and /library.html. The build reads the existing cost, opening and design notes from the repository. Rebuild the standalone model separately with `node outputs/model/build.cjs` if its model sources or embedded images change, then run the website build.
