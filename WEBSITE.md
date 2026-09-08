@@ -15,3 +15,12 @@ This repository is public, so its committed plans, images and source files are p
 ## Updating
 
 Edit the page content in website/pages/, the shared shell in website/layout.cjs, and website/style.css or website/app.js. Each main aspect has its own URL: /exterior.html, /plans.html, /explore.html, /budget.html and /library.html. The build reads the existing cost, opening and design notes from the repository. Rebuild the standalone model separately with `node outputs/model/build.cjs` if its model sources or embedded images change, then run the website build.
+
+
+## Languages and practical guides
+
+Use the header selector for English, Hindi or Marathi. The preference persists between pages. Translation catalogues are bundled; no visitor content is submitted to a translation service. The website build also embeds translation controls/catalogues in the downloadable viewer copies. Original drawings and raster-image text remain source artifacts. See website/locales/README.md for translation provenance and maintenance.
+
+`/guides/overview.html` contains an annotated facade linking to five numbered guides with layer diagrams, quantity calculators and a purchasing-note form. Values are illustrative; supplier rates are explicitly requested where unknown. Notes stay in the page session until downloaded.
+
+Checked: all 18 principal/document/guide routes in three languages, mobile overflow, 41 local links, calculator arithmetic and validation, translated purchasing-note downloads and iframe language persistence.

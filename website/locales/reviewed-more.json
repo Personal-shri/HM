@@ -1,0 +1,28 @@
+{
+  "hi": {
+    "Actual concrete-contact surface area, m²": "कंक्रीट के संपर्क वाली वास्तविक सतह का क्षेत्रफल, m²",
+    "Actual treated surface area, m²": "वास्तविक उपचारित सतह का क्षेत्रफल, m²",
+    "Concrete (m³):": "कंक्रीट (m³):",
+    "Designed net concrete volume, m³": "डिज़ाइन के अनुसार कंक्रीट की शुद्ध मात्रा, m³",
+    "Formwork (m²):": "शटरिंग / फॉर्मवर्क (m²):",
+    "₹1.1–1.5 crore": "₹1.1–1.5 करोड़",
+    "₹11–19 lakh": "₹11–19 लाख",
+    "₹3.5–₹6.5 lakh": "₹3.5–₹6.5 लाख",
+    "₹3.9–₹7.2 lakh": "₹3.9–₹7.2 लाख",
+    "₹4,550 MRP / fitting": "₹4,550 MRP / प्रति फिटिंग",
+    "₹6–10 lakh": "₹6–10 लाख",
+    "₹84.23–106.57 lakh": "₹84.23–106.57 लाख"
+  },
+  "mr": {
+    "Explore the furnished main floor · Version 2": "फर्निचरसह तळमजला पाहा · आवृत्ती 2",
+    "For exposed wall fixtures, ask the electrician to assess at least IP65 candidates and suitable cable glands/junction boxes; installation and location still matter. No light listed here is approved for immersion. Keep decorative fittings separate from wiring, protection and earthing costs. Six of the Philips reference fixtures alone would be ₹27,300 at listed MRP, before installation—above the earlier compact ₹15,000 decorative-light allowance. Quote fewer fixtures or a less costly verified outdoor product instead.": "उघड्या भिंतीवरील दिव्यांसाठी इलेक्ट्रिशियनकडून किमान IP65 पर्याय आणि योग्य केबल सील व जंक्शन बॉक्स तपासून घ्या; जागा आणि बसवण्याची पद्धतही महत्त्वाची आहे. येथे दिलेला कोणताही दिवा पाण्यात बुडवण्यासाठी मंजूर नाही. सजावटीचे दिवे, वायरिंग, संरक्षण आणि अर्थिंग यांचे खर्च वेगळे ठेवा. Philips च्या संदर्भ दिव्यांपैकी सहा दिव्यांची प्रकाशित MRP ₹27,300 होते; बसवण्यापूर्वीच ती आधीच्या लहान घरासाठीच्या ₹15,000 तरतुदीपेक्षा जास्त आहे. त्याऐवजी कमी दिवे किंवा स्वस्त, पडताळलेले बाह्य दिवे यांचे कोटेशन घ्या.",
+    "The ₹45 lakh ceiling remains for the whole project. Product substitutions cannot make the unchanged 3,868 sq ft house fit it. The previous ₹1.5 lakh decorative-exterior allocation applies only to a compact redesign and excludes ordinary external paint, windows, structural works and roof waterproofing already allocated elsewhere. This research adds no new budget approvals and changes no floor plan.": "संपूर्ण प्रकल्पासाठी ₹45 लाखांची मर्यादा कायम आहे. उत्पादन बदलून सध्याचे 3,868 चौरस फुटांचे घर त्या खर्चात बसणार नाही. आधीची ₹1.5 लाखांची बाह्य सजावटीची तरतूद फक्त लहान पुनर्रचित घरासाठी आहे; इतरत्र तरतूद केलेले सामान्य बाह्य रंगकाम, खिडक्या, संरचना आणि छताचे जलरोधक काम त्यात नाही. हे संशोधन नवीन खर्चमंजुरी देत नाही आणि मजल्याचा आराखडा बदलत नाही.",
+    "₹1.1–1.5 crore": "₹1.1–1.5 कोटी",
+    "₹11–19 lakh": "₹11–19 लाख",
+    "₹3.5–₹6.5 lakh": "₹3.5–₹6.5 लाख",
+    "₹3.9–₹7.2 lakh": "₹3.9–₹7.2 लाख",
+    "₹4,550 MRP / fitting": "₹4,550 MRP / प्रति फिटिंग",
+    "₹6–10 lakh": "₹6–10 लाख",
+    "₹84.23–106.57 lakh": "₹84.23–106.57 लाख"
+  }
+}

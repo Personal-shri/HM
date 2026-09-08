@@ -6,6 +6,12 @@ Home-design workspace published at [Personal-shri/HM](https://github.com/Persona
 
 The website brings the selected exterior, latest plans, interactive 3D, budget notes and downloads together. See [preview and Vercel deployment instructions](WEBSITE.md). Build with `npm run build`; preview with `npm start`.
 
+## Languages and visual construction guides
+
+The website includes English, Hindi and Marathi with a remembered language selector. Hindi/Marathi are machine-assisted reading translations with curated UI and numeric corrections. Original drawings, image text and third-party sources may remain English.
+
+The numbered `/guides/overview.html` hub links to wall/paint, roof waterproofing, opening/metalwork, structural procurement and purchasing pages. Calculators use labelled example measurements and separate material costs from unquoted installation costs. Purchasing notes download locally and are not sent to suppliers.
+
 ## Exterior product research
 
 [Exterior-only product research](EXTERIOR-PRODUCT-RESEARCH.md) covers 18 topics with manufacturer sources, published price anchors, unresolved quotations and quality requirements. Website: `/research.html`. Interiors are deferred.

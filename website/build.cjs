@@ -1,7 +1,7 @@
 const fs=require('node:fs');const path=require('node:path');
 const root=path.resolve(__dirname,'..'),out=path.join(root,'dist');fs.rmSync(out,{recursive:true,force:true});fs.mkdirSync(out,{recursive:true});
 function copy(source,target=source){const dest=path.join(out,target);fs.mkdirSync(path.dirname(dest),{recursive:true});fs.copyFileSync(path.join(root,source),dest);}
-for(const name of ['style.css','app.js'])copy('website/'+name,name);
+for(const name of ['style.css','app.js','calculators.js','i18n.js'])copy('website/'+name,name);
 const layout=require('./layout.cjs');
 for(const [key,title] of [['home','A place to call home'],['exterior','Exterior views'],['plans','Floor plan'],['interiors','Main-floor interiors'],['explore','Explore in 3D'],['budget','Budget & construction'],['library','Downloads & notes']]){
  fs.writeFileSync(path.join(out,key==='home'?'index.html':key+'.html'),layout(title,key,fs.readFileSync(path.join(__dirname,'pages',key+'.html'),'utf8')));
@@ -13,4 +13,7 @@ function markdown(md){const lines=md.split('\n');let result='',list=false;const 
 for(const [slug,file,title] of [['tv-furniture','TV-AND-FURNITURE.md','TV glare and furniture sizes'],['interiors','MAIN-FLOOR-INTERIORS.md','Main-floor furniture and layout'],['budget45','BUDGET-45-LAKH.md','₹45 lakh feasibility and construction budget'],['cost','COST-ESTIMATE.md','Cost estimate'],['openings','OPENING-SCHEDULE.md','Room sizes, doors & windows'],['design','DESIGN-NOTES.md','Design notes']]){copy(file,'downloads/'+file);fs.mkdirSync(path.join(out,'documents'),{recursive:true});fs.writeFileSync(path.join(out,'documents',slug+'.html'),layout(title,slug==='cost'||slug==='budget45'?'budget':slug==='openings'?'plans':(slug==='interiors'||slug==='tv-furniture')?'interiors':'library',`<article class="document"><div class="document-links"><a href="/${slug==='cost'||slug==='budget45'?'budget':slug==='openings'?'plans':(slug==='interiors'||slug==='tv-furniture')?'interiors':'library'}.html">← Back to ${slug==='cost'||slug==='budget45'?'budget':slug==='openings'?'floor plan':(slug==='interiors'||slug==='tv-furniture')?'interiors':'downloads'}</a><a href="/downloads/${file}" download>Download original notes ↓</a></div>${markdown(fs.readFileSync(path.join(root,file),'utf8'))}</article>`));}
 copy('EXTERIOR-PRODUCT-RESEARCH.md','downloads/EXTERIOR-PRODUCT-RESEARCH.md');
 fs.writeFileSync(path.join(out,'research.html'),layout('Exterior research','research',require('./research.cjs')(markdown)));
+fs.mkdirSync(path.join(out,'guides'),{recursive:true});
+for(const [slug,html] of Object.entries(require('./guides.cjs')))fs.writeFileSync(path.join(out,'guides',slug+'.html'),layout('Exterior construction guide','research',html));
+require('./locales/build.cjs')(out);
 fs.writeFileSync(path.join(out,'robots.txt'),'User-agent: *\nDisallow: /\n');console.log('Built HM website in dist/ with selected views, plans, notes and offline 3D viewer.');
