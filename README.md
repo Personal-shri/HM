@@ -20,6 +20,10 @@ The website brings the selected exterior, latest plans, interactive 3D, budget n
 
 The viewer includes all four appearance images and a simplified rotatable exterior model. Download the HTML to use it offline; GitHub does not run HTML previews. Interior exploration is a later stage.
 
+## Interactive interior walkthrough
+
+[Download the standalone main-floor walkthrough](outputs/model/interior-walkthrough.html). Walk with WASD/arrows, drag to look, use room shortcuts or switch to Overview. Includes simplified furniture and collision boundaries; upper floor and photoreal finishes are not included. [Model scope and rebuild notes](INTERIOR-WALKTHROUGH.md).
+
 ## Main-floor interiors
 
 [Room sizes, furniture and circulation proposal](MAIN-FLOOR-INTERIORS.md). The revised [scaled main-floor furniture plan](outputs/main-floor-furniture-v3.svg) now takes precedence. Earlier appearance studies are archived on the Interiors page because they do not reproduce the layout reliably. These do not change the floor plan or establish a fit within ₹45 lakh.
