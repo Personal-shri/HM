@@ -4,6 +4,8 @@ Private home-design workspace. The latest selected direction is the **American-s
 
 ## Exterior and 3D
 
+**Latest for selection:** [Three restrained modern/heritage front samples — A, B and C](FRONT-OPTIONS.md). These replace the dramatic royal appearance as the current exploration; no facade option is yet approved.
+
 Latest front-only exploration: [Royal haveli-inspired facade sample](outputs/elevations/royal-front-sample-v1.png). This is a proposed alternative awaiting review; the 3D viewer still shows the previous contemporary exterior.
 
 ![Proposed exterior](outputs/elevations/exterior-concept-v1.png)

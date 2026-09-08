@@ -1,5 +1,7 @@
 # Exterior appearance and interactive 3D
 
+Current exploration: the royal sample was considered too dramatic. See [three modern/heritage alternatives](FRONT-OPTIONS.md) with simpler ornament and different finishes. These are front-only samples awaiting the user's selection, not changes to the saved 3D model.
+
 ## Royal front-only alternative
 
 The user requested a straight-on front view inspired by royal residences. [Sample v1](outputs/elevations/royal-front-sample-v1.png) proposes a pale sandstone/ivory haveli character, carved entrance, scalloped balcony arches, columns, ornamental cornices and balustrades. The left covered balcony and right open terrace are retained conceptually. Recommendation: concentrate ornament at the entrance and balcony and simplify other surfaces before finalizing the elevation.
