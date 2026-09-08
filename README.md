@@ -4,15 +4,13 @@ Private home-design workspace. The latest selected direction is the **American-s
 
 ## Exterior and 3D
 
-**Latest for selection:** [Three restrained modern/heritage front samples — A, B and C](FRONT-OPTIONS.md). These replace the dramatic royal appearance as the current exploration; no facade option is yet approved.
+**Selected: Option A — Quiet classical.** Ivory plaster, restrained cornices, a shallow entrance arch, dark window frames and railings, and flat roofs concealed by parapets.
 
-Latest front-only exploration: [Royal haveli-inspired facade sample](outputs/elevations/royal-front-sample-v1.png). This is a proposed alternative awaiting review; the 3D viewer still shows the previous contemporary exterior.
+![Selected front](outputs/elevations/selected-a/front-approved.png)
 
-![Proposed exterior](outputs/elevations/exterior-concept-v1.png)
+[Front, both sides and rear](SELECTED-EXTERIOR.md) · [Interactive 3D — download HTML and open in browser](outputs/model/house-3d.html) · [Earlier facade alternatives](FRONT-OPTIONS.md)
 
-[Exterior and interior concepts](EXTERIOR-CONCEPT.md) · [Interactive 3D — download HTML and open in browser](outputs/model/house-3d.html) · [Interior mood view](outputs/elevations/interior-concept-v1.png)
-
-The images propose an exterior style; the rotatable model explains the building's shape. Neither is a construction-ready model. See the exterior notes for known differences from the plan.
+The viewer includes all four appearance images and a simplified rotatable exterior model. Download the HTML to use it offline; GitHub does not run HTML previews. Interior exploration is a later stage.
 
 ## Latest plan
 

@@ -1,6 +1,6 @@
 # Three restrained modern / heritage front options
 
-All three show the front only, retaining the covered left balcony, central enclosed upper room and open right terrace in concept. No option has been selected. Plans and the interactive model remain unchanged.
+All three show the front only, retaining the covered left balcony, central enclosed upper room and open right terrace in concept. **Option A was selected on 8 September 2026.** See [the selected exterior](SELECTED-EXTERIOR.md) for matching side/rear images and the updated 3D model. The floor plan remains unchanged.
 
 ## A — Quiet classical
 

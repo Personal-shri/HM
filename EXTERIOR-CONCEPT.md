@@ -1,6 +1,8 @@
 # Exterior appearance and interactive 3D
 
-Current exploration: the royal sample was considered too dramatic. See [three modern/heritage alternatives](FRONT-OPTIONS.md) with simpler ornament and different finishes. These are front-only samples awaiting the user's selection, not changes to the saved 3D model.
+**Current selected design: Option A — Quiet classical.** See [selected exterior views and model](SELECTED-EXTERIOR.md). The viewer now uses ivory parapets, restrained cornices and an arched entrance, and includes the approved front plus proposed left, right and rear images.
+
+The following notes describe earlier explorations and are retained as design history. References below to pitched roofs or an unchanged model are historical, superseded by the selected exterior.
 
 ## Royal front-only alternative
 
