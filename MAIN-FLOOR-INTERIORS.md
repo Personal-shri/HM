@@ -1,3 +1,24 @@
+# Revision 02 — scaled layout now takes precedence
+
+The earlier rendered views were rejected because they did not reliably reproduce room geometry and openings. Use outputs/main-floor-furniture-v2.svg as the new furniture-layout proposal. The original main-floor wall/opening geometry is reused from the saved drawing generator. An automated comparison confirms every scheduled main-floor opening retains its type, size and coordinates.
+
+Front/street is the bottom of the plan; left/right describe the drawing, not compass directions. No surveyed north orientation is available.
+
+## Corrected placements and measured object gaps
+
+- Living: the W1 opening runs from x=1 to 9 ft and the S1 slider from x=10 to 17 ft on the front wall; no side window is invented. TV is on the left solid wall. Sofa footprints are 7.5 × 3 ft and 3 × 6 ft. Coffee table is 3.5 × 2 ft, with 2 ft object gaps to the nearby sofa fronts in this proposal. The main route turns through the actual family-hall opening, not through its wall.
+- Kitchen: front window x=28–38 ft; right-side window y=3–9 ft from the front. Front counter is 2 ft deep, offset 0.5 ft from the nominal wall line. Island is 6 × 3 ft, from x=30–36 and y=6–9 ft. This gives a 3.5 ft front work aisle and 5.5 ft right aisle between drawn furniture. Two stools are drawn separately; their rear edge leaves 3.2 ft to the nominal dining boundary. Occupied seating and appliance doors need further checks. A 3 × 3 ft fridge allowance sits at the rear end of the right counter.
+- Parents: bed frame is 7 ft long × 5.5 ft wide, head toward right wall, with 0.5 ft headboard/wall allowance. Its north/rear side has 4.5 ft to the rear bedroom boundary before bedside furniture and door operation; its foot has 8.5 ft to the nominal left wall. Mattress can be 5 × 6.5 ft inside the frame. The chair is now toward the front-left corner, outside the ensuite swing. Both rear doors and the left window are retained.
+- Parents closet: only a 1.5 ft deep side shelving bank is shown in this iteration, beyond the door swing. The earlier full-depth wardrobe proposal is not carried forward as a proven fit. Hanging storage needs a separate closet layout.
+- Guest: bed frame is 5.5 × 7 ft with head toward front/south-on-sheet wall, between saved window walls. A 5 × 2 ft wardrobe is on the left wall behind the doorway zone. The bed's right edge has 4.25 ft to the nominal right wall; the wardrobe is beyond the bed-foot zone.
+- Laundry/store: washer and sink footprints are on the right; store shelves avoid the sliding-door track. Window sills and equipment depths must be verified before counters are fixed.
+
+These are measurements between proposed objects and nominal reference lines, not finished clearances. The source plan still contains unresolved stair access and door-swing issues; the furniture study must not imply those are approved. Pantry and laundry doors swing into the dining-side circulation area. Keep their operation visible and coordinate a revised swing/door solution with the architect before finalizing dining furniture. Bathroom fixtures, exact kitchen equipment, and overhead cabinetry remain unplaced rather than invented.
+
+The visual revision preserves the architectural drawing and supersedes earlier furniture positions wherever they differ. The original v1 notes below are retained as design history and preliminary sizing context.
+
+---
+
 # Main-floor interiors — furniture and layout proposal v1
 
 Scope: main/ground floor only. Uses the current 44 × 48 ft schematic plan, approximately 2,112 sq ft on this floor. Upper-floor interiors are deferred. The ₹45 lakh feasibility review remains separate: this is NOT a compact redesign and does not establish affordability of the existing full-sized house.

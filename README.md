@@ -22,7 +22,7 @@ The viewer includes all four appearance images and a simplified rotatable exteri
 
 ## Main-floor interiors
 
-[Room sizes, furniture and circulation proposal](MAIN-FLOOR-INTERIORS.md). Three initial appearance studies are saved in outputs/interiors/ and displayed on the website’s Interiors page. These do not change the floor plan or establish a fit within ₹45 lakh.
+[Room sizes, furniture and circulation proposal](MAIN-FLOOR-INTERIORS.md). The revised [scaled main-floor furniture plan](outputs/main-floor-furniture-v2.svg) now takes precedence. Earlier appearance studies are archived on the Interiors page because they do not reproduce the layout reliably. These do not change the floor plan or establish a fit within ₹45 lakh.
 
 ## Fixed ₹45 lakh budget
 
