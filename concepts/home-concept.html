@@ -1,0 +1,41 @@
+<div id="home-concept">
+  <div class="nav nav-pills" role="tablist" aria-label="House floor">
+    <button class="nav-link active" id="home-ground-tab" role="tab" aria-controls="home-ground" aria-selected="true" type="button">Ground floor</button>
+    <button class="nav-link" id="home-upper-tab" role="tab" aria-controls="home-upper" aria-selected="false" type="button">Upper floor</button>
+  </div>
+  <div id="home-ground" role="tabpanel" aria-labelledby="home-ground-tab">
+    <p>Target: about 950 sq ft built-up</p>
+    <div class="rooms" role="img" aria-label="Conceptual room grouping, not to scale. Parents and guest bedrooms at the rear, bathrooms and kitchen in the middle, living and dining near the entrance with a side staircase.">
+      <div class="room">Parents’ bedroom<span>12 × 12 ft</span></div>
+      <div class="room">Guest / extra bedroom<span>10 × 11 ft</span></div>
+      <div class="room">Attached bathroom<span>5 × 8 ft</span></div>
+      <div class="room">Common bathroom<span>5 × 7 ft</span></div>
+      <div class="room">Main kitchen<span>9 × 10 ft</span></div>
+      <div class="room">Storage + utility<span>Store: 4 × 5 ft</span></div>
+      <div class="room">Open living + dining<span>About 230 sq ft</span></div>
+      <div class="room">Side staircase + entry<span>Shared circulation</span></div>
+    </div>
+    <p class="text-small text-muted">Front entrance / small porch</p>
+  </div>
+  <div id="home-upper" role="tabpanel" aria-labelledby="home-upper-tab" hidden>
+    <p>Target: about 850 sq ft built-up, plus open terrace</p>
+    <div class="rooms" role="img" aria-label="Conceptual upper-floor room grouping, not to scale. Three bedrooms, two bathrooms and a small kitchen around a shared landing, with access to a front terrace.">
+      <div class="room">Bedroom 1<span>11 × 12 ft</span></div>
+      <div class="room">Bedroom 2<span>10 × 11 ft</span></div>
+      <div class="room">Attached bathroom<span>5 × 8 ft</span></div>
+      <div class="room">Common bathroom<span>5 × 7 ft</span></div>
+      <div class="room">Small kitchen<span>6 × 8 ft</span></div>
+      <div class="room">Bedroom 3<span>10 × 11 ft</span></div>
+      <div class="room">Small family landing<span>Terrace access</span></div>
+      <div class="room">Side staircase<span>Above ground-floor stair</span></div>
+      <div class="room terrace">Open terrace: about 80–100 sq ft</div>
+    </div>
+  </div>
+  <div class="text-small text-muted">Concept only · Not to scale · Room sizes are approximate clear internal targets</div>
+</div>
+<style>
+  #home-concept .rooms {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:3px;margin:12px 0;}
+  #home-concept .room {padding:16px 12px;min-height:78px;background:var(--secondary);color:var(--secondary-foreground);border-left:2px solid var(--border);display:flex;flex-direction:column;justify-content:center;overflow-wrap:anywhere;}
+  #home-concept .room span {display:block;font-weight:400;margin-top:6px;}
+  #home-concept .terrace {grid-column:1 / -1;background:var(--accent);color:var(--accent-foreground);min-height:55px;}
+</style>

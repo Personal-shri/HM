@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1040" viewBox="0 0 1400 1040">
+<rect width="1400" height="1040" fill="#faf8f3"/>
+<text x="65" y="53" font-family="Arial, sans-serif" font-size="30" fill="#23352f" text-anchor="start" font-weight="700">LATUR FAMILY HOME — LARGER ROOMS</text>
+<text x="65" y="83" font-family="Arial, sans-serif" font-size="18" fill="#23352f" text-anchor="start" font-weight="400">55 ft road frontage × 80 ft plot depth  |  Ground + one upper floor  |  Larger-room option; budget revision needed</text>
+<text x="65" y="113" font-family="Arial, sans-serif" font-size="15" fill="#826444" text-anchor="start" font-weight="400">CONCEPT STUDY — north unknown; site placement and setbacks not assigned</text>
+<text x="100" y="161" font-family="Arial, sans-serif" font-size="22" fill="#23352f" text-anchor="start" font-weight="700">GROUND FLOOR</text>
+<text x="100" y="188" font-family="Arial, sans-serif" font-size="16" fill="#23352f" text-anchor="start" font-weight="400">≈1,224 sq ft covered footprint</text>
+<rect x="100" y="235" width="210" height="210" fill="#e5eddf"/>
+<text x="205.0" y="337.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">PARENTS</text>
+<text x="205.0" y="358.0" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">14 × 14 ft zone</text>
+<rect x="400" y="235" width="210" height="210" fill="#e5eddf"/>
+<text x="505.0" y="337.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">EXTRA BEDROOM</text>
+<text x="505.0" y="358.0" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">14 × 14 ft zone</text>
+<rect x="310" y="235" width="90" height="105" fill="#e1edf0"/>
+<text x="355.0" y="284.5" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">ATT. BATH</text>
+<text x="355.0" y="305.5" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">6 × 7 zone</text>
+<rect x="310" y="340" width="90" height="105" fill="#e1edf0"/>
+<text x="355.0" y="389.5" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">BATH</text>
+<text x="355.0" y="410.5" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">6 × 7 zone</text>
+<rect x="100" y="445" width="510" height="60" fill="#f4f0e8"/>
+<text x="355.0" y="472.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">SHARED PASSAGE</text>
+<rect x="100" y="505" width="180" height="180" fill="#f3e5ce"/>
+<text x="190.0" y="592.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">KITCHEN</text>
+<text x="190.0" y="613.0" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">12 × 12 ft zone</text>
+<rect x="100" y="685" width="90" height="90" fill="#f3e5ce"/>
+<text x="145.0" y="727.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">STORE</text>
+<text x="145.0" y="748.0" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">6 × 6 zone</text>
+<rect x="190" y="685" width="90" height="90" fill="#d7e9ef"/>
+<text x="235.0" y="727.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">LAUNDRY</text>
+<text x="235.0" y="748.0" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">6 × 6 zone</text>
+<rect x="280" y="505" width="210" height="270" fill="#f3e5ce"/>
+<text x="385.0" y="637.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">LIVING / DINING</text>
+<text x="385.0" y="658.0" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">14 × 18 ft zone</text>
+<rect x="490" y="505" width="120" height="270" fill="#e9e8e3"/>
+<text x="550.0" y="637.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700"></text>
+<path d="M100,235 L610,235" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M610,235 L610,775" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M610,775 L100,775" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M100,775 L100,235" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M310,235 L310,445" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M400,235 L400,445" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M310,340 L400,340" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M100,445 L610,445" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M100,505 L490,505" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M490,505 L490,775" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M280,505 L280,775" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M100,685 L280,685" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M190,685 L190,775" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M205,505 L245.5,505" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M205,505 L205,464.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M205,464.5 A40.5,40.5 0 0 1 245.5,505" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M115,685 L155.5,685" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M115,685 L115,644.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M115,644.5 A40.5,40.5 0 0 1 155.5,685" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M205,685 L245.5,685" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M205,685 L205,644.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M205,644.5 A40.5,40.5 0 0 1 245.5,685" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M355,505 L395.5,505" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M355,505 L355,464.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M355,464.5 A40.5,40.5 0 0 1 395.5,505" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M370,775 L410.5,775" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M370,775 L370,734.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M370,734.5 A40.5,40.5 0 0 1 410.5,775" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M280,565 L280,625" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M220,775 L265,775" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M220,775 L265,775" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M220,445 L260.5,445" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M220,445 L220,404.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M220,404.5 A40.5,40.5 0 0 1 260.5,445" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M430,445 L470.5,445" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M430,445 L430,404.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M430,404.5 A40.5,40.5 0 0 1 470.5,445" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M332.5,445 L373.0,445" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M332.5,445 L332.5,404.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M332.5,404.5 A40.5,40.5 0 0 1 373.0,445" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M310,265 L310,305.5" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M310,265 L269.5,265" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M269.5,265 A40.5,40.5 0 0 0 310,305.5" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M490,715 L490,755.5" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M490,715 L449.5,715" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M449.5,715 A40.5,40.5 0 0 0 490,755.5" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M500.5,564.25 L542.5,564.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M557.5,564.25 L599.5,564.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M500.5,578.5 L542.5,578.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M557.5,578.5 L599.5,578.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M500.5,592.75 L542.5,592.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M557.5,592.75 L599.5,592.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M500.5,607.0 L542.5,607.0" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M557.5,607.0 L599.5,607.0" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M500.5,621.25 L542.5,621.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M557.5,621.25 L599.5,621.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M500.5,635.5 L542.5,635.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M557.5,635.5 L599.5,635.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M500.5,649.75 L542.5,649.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M557.5,649.75 L599.5,649.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M500.5,664.0 L542.5,664.0" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M557.5,664.0 L599.5,664.0" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M500.5,678.25 L542.5,678.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M557.5,678.25 L599.5,678.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M500.5,692.5 L542.5,692.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M557.5,692.5 L599.5,692.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M500.5,706.75 L542.5,706.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M557.5,706.75 L599.5,706.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M545.5,550 L545.5,730" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M554.5,550 L554.5,730" fill="none" stroke="#354740" stroke-width="3"/>
+<text x="550" y="535" font-family="Arial, sans-serif" font-size="14" fill="#23352f" text-anchor="middle" font-weight="700">STAIR</text>
+<text x="550" y="760" font-family="Arial, sans-serif" font-size="12" fill="#23352f" text-anchor="middle" font-weight="400">8 × 18 zone</text>
+<path d="M520,707.5 L520,612.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M520,612.5 L515,621.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M520,612.5 L525,621.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M145,235 L235,235" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M145,235 L235,235" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M445,235 L550,235" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M445,235 L550,235" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M340,235 L370,235" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M340,235 L370,235" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M100,280 L100,370" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M100,280 L100,370" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M610,280 L610,370" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M610,280 L610,370" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M100,550 L100,640" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M100,550 L100,640" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M310,775 L355,775" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M310,775 L355,775" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M430,775 L475,775" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M430,775 L475,775" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M100,215 L610,215" fill="none" stroke="#8c968e" stroke-width="1"/>
+<text x="355" y="208" font-family="Arial, sans-serif" font-size="14" fill="#23352f" text-anchor="middle" font-weight="400">34 ft overall</text>
+<text x="57" y="505" font-family="Arial, sans-serif" font-size="14" fill="#23352f" text-anchor="middle" font-weight="400">36 ft</text>
+<text x="355" y="806" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">FRONT / ROAD SIDE</text>
+<text x="790" y="161" font-family="Arial, sans-serif" font-size="22" fill="#23352f" text-anchor="start" font-weight="700">UPPER FLOOR</text>
+<text x="790" y="188" font-family="Arial, sans-serif" font-size="16" fill="#23352f" text-anchor="start" font-weight="400">≈1,092 sq ft enclosed + 132 sq ft terrace</text>
+<rect x="790" y="235" width="210" height="210" fill="#e5eddf"/>
+<text x="895.0" y="337.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">BEDROOM 1</text>
+<text x="895.0" y="358.0" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">14 × 14 ft zone</text>
+<rect x="1090" y="235" width="210" height="210" fill="#e5eddf"/>
+<text x="1195.0" y="337.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">BEDROOM 2</text>
+<text x="1195.0" y="358.0" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">14 × 14 ft zone</text>
+<rect x="1000" y="235" width="90" height="105" fill="#e1edf0"/>
+<text x="1045.0" y="284.5" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">ATT. BATH</text>
+<text x="1045.0" y="305.5" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">6 × 7 zone</text>
+<rect x="1000" y="340" width="90" height="105" fill="#e1edf0"/>
+<text x="1045.0" y="389.5" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">BATH</text>
+<text x="1045.0" y="410.5" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">6 × 7 zone</text>
+<rect x="790" y="445" width="510" height="60" fill="#f4f0e8"/>
+<text x="1045.0" y="472.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">SHARED PASSAGE</text>
+<rect x="790" y="505" width="210" height="180" fill="#e5eddf"/>
+<text x="895.0" y="592.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">BEDROOM 3</text>
+<text x="895.0" y="613.0" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">14 × 12 ft zone</text>
+<rect x="1000" y="505" width="120" height="135" fill="#f3e5ce"/>
+<text x="1060.0" y="569.5" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">KITCHEN</text>
+<text x="1060.0" y="590.5" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">8 × 9 zone</text>
+<rect x="1120" y="505" width="60" height="270" fill="#f4f0e8"/>
+<text x="1150.0" y="637.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700"></text>
+<rect x="1000" y="640" width="120" height="45" fill="#f4f0e8"/>
+<text x="1060.0" y="659.5" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700"></text>
+<rect x="790" y="685" width="330" height="90" fill="#e2ebd6"/>
+<text x="955.0" y="727.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">OPEN TERRACE</text>
+<text x="955.0" y="748.0" font-family="Arial, sans-serif" font-size="13" fill="#23352f" text-anchor="middle" font-weight="400">22 × 6 ft zone</text>
+<rect x="1180" y="505" width="120" height="270" fill="#e9e8e3"/>
+<text x="1240.0" y="637.0" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700"></text>
+<path d="M790,235 L1300,235" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1300,235 L1300,775" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1300,775 L790,775" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M790,775 L790,235" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1000,235 L1000,445" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1090,235 L1090,445" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1000,340 L1090,340" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M790,445 L1300,445" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M790,505 L1180,505" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1180,505 L1180,775" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1000,505 L1000,685" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1120,505 L1120,640" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1000,640 L1120,640" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M790,685 L1120,685" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1120,685 L1120,775" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M910,505 L950.5,505" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M910,505 L910,464.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M910,464.5 A40.5,40.5 0 0 1 950.5,505" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M1030,640 L1070.5,640" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M1030,640 L1030,599.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M1030,599.5 A40.5,40.5 0 0 1 1070.5,640" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M1060,685 L1100.5,685" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M1060,685 L1060,644.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M1060,644.5 A40.5,40.5 0 0 1 1100.5,685" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M1127.5,505 L1168.0,505" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M1127.5,505 L1127.5,464.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M1127.5,464.5 A40.5,40.5 0 0 1 1168.0,505" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M910,445 L950.5,445" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M910,445 L910,404.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M910,404.5 A40.5,40.5 0 0 1 950.5,445" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M1120,445 L1160.5,445" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M1120,445 L1120,404.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M1120,404.5 A40.5,40.5 0 0 1 1160.5,445" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M1022.5,445 L1063.0,445" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M1022.5,445 L1022.5,404.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M1022.5,404.5 A40.5,40.5 0 0 1 1063.0,445" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M1000,265 L1000,305.5" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M1000,265 L959.5,265" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M959.5,265 A40.5,40.5 0 0 0 1000,305.5" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M1180,715 L1180,755.5" fill="none" stroke="#faf8f3" stroke-width="6"/>
+<path d="M1180,715 L1139.5,715" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M1139.5,715 A40.5,40.5 0 0 0 1180,755.5" fill="none" stroke="#63756a" stroke-width="1.2"/>
+<path d="M1190.5,564.25 L1232.5,564.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1247.5,564.25 L1289.5,564.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1190.5,578.5 L1232.5,578.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1247.5,578.5 L1289.5,578.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1190.5,592.75 L1232.5,592.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1247.5,592.75 L1289.5,592.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1190.5,607.0 L1232.5,607.0" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1247.5,607.0 L1289.5,607.0" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1190.5,621.25 L1232.5,621.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1247.5,621.25 L1289.5,621.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1190.5,635.5 L1232.5,635.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1247.5,635.5 L1289.5,635.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1190.5,649.75 L1232.5,649.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1247.5,649.75 L1289.5,649.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1190.5,664.0 L1232.5,664.0" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1247.5,664.0 L1289.5,664.0" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1190.5,678.25 L1232.5,678.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1247.5,678.25 L1289.5,678.25" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1190.5,692.5 L1232.5,692.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1247.5,692.5 L1289.5,692.5" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1190.5,706.75 L1232.5,706.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1247.5,706.75 L1289.5,706.75" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1235.5,550 L1235.5,730" fill="none" stroke="#354740" stroke-width="3"/>
+<path d="M1244.5,550 L1244.5,730" fill="none" stroke="#354740" stroke-width="3"/>
+<text x="1240" y="535" font-family="Arial, sans-serif" font-size="14" fill="#23352f" text-anchor="middle" font-weight="700">STAIR</text>
+<text x="1240" y="760" font-family="Arial, sans-serif" font-size="12" fill="#23352f" text-anchor="middle" font-weight="400">8 × 18 zone</text>
+<path d="M1210,707.5 L1210,612.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M1210,612.5 L1205,621.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M1210,612.5 L1215,621.5" fill="none" stroke="#63756a" stroke-width="1.5"/>
+<path d="M835,235 L925,235" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M835,235 L925,235" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M1135,235 L1240,235" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M1135,235 L1240,235" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M1030,235 L1060,235" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M1030,235 L1060,235" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M790,280 L790,370" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M790,280 L790,370" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M1300,280 L1300,370" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M1300,280 L1300,370" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M790,550 L790,640" fill="none" stroke="#faf8f3" stroke-width="7"/>
+<path d="M790,550 L790,640" fill="none" stroke="#5296a2" stroke-width="3"/>
+<path d="M790,215 L1300,215" fill="none" stroke="#8c968e" stroke-width="1"/>
+<text x="1045" y="208" font-family="Arial, sans-serif" font-size="14" fill="#23352f" text-anchor="middle" font-weight="400">34 ft overall</text>
+<text x="747" y="505" font-family="Arial, sans-serif" font-size="14" fill="#23352f" text-anchor="middle" font-weight="400">36 ft</text>
+<text x="1045" y="806" font-family="Arial, sans-serif" font-size="15" fill="#23352f" text-anchor="middle" font-weight="700">FRONT / ROAD SIDE</text>
+<text x="65" y="853" font-family="Arial, sans-serif" font-size="17" fill="#23352f" text-anchor="start" font-weight="700">LARGER-ROOM OPTION</text>
+<text x="65" y="883" font-family="Arial, sans-serif" font-size="16" fill="#23352f" text-anchor="start" font-weight="400">Planning-zone dimensions, not finished clear sizes. Total covered/enclosed area ≈2,316 sq ft, plus open terrace.</text>
+<text x="65" y="910" font-family="Arial, sans-serif" font-size="16" fill="#23352f" text-anchor="start" font-weight="400">Laundry: washer, compact sink/counter, floor drain and front window; outdoor drying space to be placed on the site plan.</text>
+<text x="65" y="937" font-family="Arial, sans-serif" font-size="16" fill="#23352f" text-anchor="start" font-weight="400">Door swings are indicative. Architect to resolve wall thickness, bathroom/kitchen exhaust, stairs, structure and setbacks.</text>
+<text x="65" y="973" font-family="Arial, sans-serif" font-size="16" fill="#826444" text-anchor="start" font-weight="400">Concept only — not for construction. This enlarged option has not been verified to fit the ₹45 lakh total budget.</text>
+</svg>
