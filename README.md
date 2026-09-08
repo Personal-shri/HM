@@ -1,6 +1,6 @@
 # HM
 
-Home-design workspace published at [shri-skg/HM](https://github.com/shri-skg/HM). The latest selected direction is the **American-style family house**. All drawings are preliminary concepts, not construction or permit documents.
+Home-design workspace published at [Personal-shri/HM](https://github.com/Personal-shri/HM). The latest selected direction is the **American-style family house**. All drawings are preliminary concepts, not construction or permit documents.
 
 ## Family website
 

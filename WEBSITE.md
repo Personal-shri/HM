@@ -8,7 +8,7 @@ Run `npm run build`, then `npm start`. Open http://localhost:56800. The build re
 
 ## Deploy on Vercel
 
-Import the public `shri-skg/HM` repository into Vercel. Use the repository root, framework preset **Other**, build command **npm run build**, and output directory **dist**. These settings are also in `vercel.json`. No environment variables are required.
+Import the public `Personal-shri/HM` repository into Vercel. Use the repository root, framework preset **Other**, build command **npm run build**, and output directory **dist**. These settings are also in `vercel.json`. No environment variables are required.
 
 This repository is public, so its committed plans, images and source files are publicly accessible. Vercel access protection only protects the deployed website; it does not restrict the public repository. This website does not implement authentication. If family-only access is required, configure deployment access protection in Vercel before sharing; available protection methods depend on the account/plan. The noindex metadata and robots.txt discourage search indexing but do not restrict access. No public deployment is performed by the local build.
 
