@@ -16,6 +16,10 @@ The website brings the selected exterior, latest plans, interactive 3D, budget n
 
 The viewer includes all four appearance images and a simplified rotatable exterior model. Download the HTML to use it offline; GitHub does not run HTML previews. Interior exploration is a later stage.
 
+## Fixed ₹45 lakh budget
+
+[Construction packages, exterior allowance and feasibility review](BUDGET-45-LAKH.md). The compact-budget allocation is a proposed redesign target, not an estimate for the unchanged 3,868 sq ft house.
+
 ## Latest plan
 
 ![American house with rear upper bedrooms](outputs/american-upper-rear.png)
