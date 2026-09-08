@@ -16,6 +16,10 @@ The website brings the selected exterior, latest plans, interactive 3D, budget n
 
 The viewer includes all four appearance images and a simplified rotatable exterior model. Download the HTML to use it offline; GitHub does not run HTML previews. Interior exploration is a later stage.
 
+## Main-floor interiors
+
+[Room sizes, furniture and circulation proposal](MAIN-FLOOR-INTERIORS.md). Three initial appearance studies are saved in outputs/interiors/ and displayed on the website’s Interiors page. These do not change the floor plan or establish a fit within ₹45 lakh.
+
 ## Fixed ₹45 lakh budget
 
 [Construction packages, exterior allowance and feasibility review](BUDGET-45-LAKH.md). The compact-budget allocation is a proposed redesign target, not an estimate for the unchanged 3,868 sq ft house.
