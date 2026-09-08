@@ -4,9 +4,11 @@ Private home-design workspace. The latest selected direction is the **American-s
 
 ## Latest plan
 
-![American house with dimensioned doors and large windows](outputs/american-dimensioned.png)
+![American house with rear upper bedrooms](outputs/american-upper-rear.png)
 
-[Full-size PNG](outputs/american-dimensioned.png) · [Editable SVG](outputs/american-dimensioned.svg) · [Door/window schedule](OPENING-SCHEDULE.md) · [Cost estimate for Latur](COST-ESTIMATE.md)
+[Full-size PNG](outputs/american-upper-rear.png) · [Editable SVG](outputs/american-upper-rear.svg) · [Door/window schedule](OPENING-SCHEDULE.md) · [Cost estimate for Latur](COST-ESTIMATE.md)
+
+Current revision: upstairs bedrooms are grouped at the rear and rear-right, around the staircase retained in its main-floor position. The family loft, second kitchen, balcony and terrace face the front. Total enclosed area remains approximately 3,868 sq ft. Earlier versions below are retained for comparison.
 
 The latest drawing adds nominal door widths/heights, larger window assemblies, glazed patio doors, and dimension chains. The estimate assumes construction near Latur and distinguishes base construction from opening upgrades, outdoors, interiors, fees and contingency.
 
@@ -42,6 +44,7 @@ python3 outputs/draw_seating_plan.py
 python3 outputs/draw_american_plan.py
 python3 outputs/draw_american_front_living.py
 python3 outputs/draw_dimensioned_plan.py
+python3 outputs/draw_upper_rear_bedrooms.py
 ```
 
 The scripts locate their files relative to their own directory. PNG exports are included; a vector-image renderer can export newly generated SVGs to PNG.

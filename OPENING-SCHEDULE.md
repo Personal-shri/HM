@@ -25,18 +25,18 @@ Blank internal openings are open-plan connections, not missing doors. The front 
 | --- | --- | --- | --- |
 | Great room including foyer notch | 24 × 20 ft overall | Bedroom 3 | 16 × 16 ft |
 | Front foyer within great-room zone | 6 × 6 ft | Bedroom 4 | 14 × 16 ft |
-| Main kitchen | 20 × 14 ft | Bedroom 5 | 14 × 16 ft |
-| Dining | 14 × 14 ft | Family loft | 16 × 12 ft |
-| Parents bedroom | 16 × 16 ft | Second kitchen | 14 × 12 ft |
+| Main kitchen | 20 × 14 ft | Bedroom 5 | 14 × 14 ft |
+| Dining | 14 × 14 ft | Family loft | 16 × 16 ft |
+| Parents bedroom | 16 × 16 ft | Second kitchen | 14 × 14 ft |
 | Guest bedroom | 14 × 14 ft | Covered balcony | 16 × 10 ft |
 | Laundry | 6 × 8 ft | Open terrace | 14 × 14 ft |
 | Store | 6 × 6 ft | Stair planning zone | 10 × 16 ft |
 | Pantry | 6 × 6 ft | Main passage target | 4 ft nominal |
-| Parents ensuite | 10 × 6 ft | Bedroom 3 ensuite | 8 × 6 ft |
-| Shared bathroom | 8 × 6 ft | Bedroom 4 ensuite | 8 × 6 ft |
+| Parents ensuite | 10 × 6 ft | Bedroom 3 ensuite | 10 × 6 ft |
+| Shared bathroom | 8 × 6 ft | Shared bathroom 2 | 8 × 6 ft |
 | Parents walk-in closet | 6 × 6 ft | Shared bathroom | 8 × 6 ft |
-| Rear entrance | 10 × 6 ft | Bedroom 3 closet | 4 × 6 ft |
-| Each ground-level patio | 24 × 8 ft | Rear landing | 10 × 6 ft |
+| Rear entrance | 10 × 6 ft | Bedroom 3 walk-in closet | 6 × 6 ft |
+| Each ground-level patio | 24 × 8 ft | Rear landing | 14 × 6 ft |
 
 Overall envelope: 44 × 48 ft. Dimensions are planning zones before wall-thickness deductions; large rooms do not establish building-code compliance. Stairs are schematic.
 

@@ -41,6 +41,8 @@ Initial research references (indicative information only; not verified contracto
 
 ## Open decisions
 
+Latest upper-floor rearrangement: bedrooms 3 and 4 at the rear, bedroom 5 along the rear-right side, staircase retained at the exact main-floor plan position. Family loft, second kitchen, covered balcony and open terrace face the front. Bedroom 5 is now 14 × 14 ft; loft 16 × 16 ft; second kitchen 14 × 14 ft. Upstairs has one ensuite and two shared bathrooms. Bedroom 3 ensuite is 10 × 6 ft with a 6 × 6 ft walk-in closet. Floor area and opening quantities remain the same; services and structure need renewed coordination.
+
 Latest dimensional revision adds a nominal door/window schedule and larger window assemblies. Geometry and areas are unchanged. Preliminary pricing assumes construction of the American-style concept near Latur; see COST-ESTIMATE.md. The window schedule totals 596 sq ft, with two additional 7 × 8 ft glazed sliding doors. Final framing, glass, operable portions, sills/heads and shading remain unconfirmed.
 
 - Whether to ultimately build the American-style concept in India or elsewhere.

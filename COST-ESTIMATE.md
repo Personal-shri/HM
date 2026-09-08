@@ -2,6 +2,8 @@
 
 Prepared 8 September 2026. **Assumption: this American-style design will be constructed near Latur, Maharashtra, not in the United States.** A US estimate requires a city/state and different construction assumptions.
 
+Upper-rear-bedroom revision: floor area and opening-type quantities are unchanged, so this remains the preliminary area-based estimate. Relocated upper bathrooms and kitchen need plumbing/structural coordination and a revised contractor quotation; identical area does not guarantee identical cost.
+
 ## Area used
 
 | Part | Area |
