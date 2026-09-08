@@ -1,0 +1,1 @@
+{"name":"hm-house","version":"1.0.0","private":true,"scripts":{"build":"node website/build.cjs","start":"python3 -m http.server 56800 --directory dist"}}

@@ -1,6 +1,10 @@
 # HM
 
-Private home-design workspace. The latest selected direction is the **American-style family house**. All drawings are preliminary concepts, not construction or permit documents.
+Home-design workspace published at [shri-skg/HM](https://github.com/shri-skg/HM). The latest selected direction is the **American-style family house**. All drawings are preliminary concepts, not construction or permit documents.
+
+## Family website
+
+The website brings the selected exterior, latest plans, interactive 3D, budget notes and downloads together. See [preview and Vercel deployment instructions](WEBSITE.md). Build with `npm run build`; preview with `npm start`.
 
 ## Exterior and 3D
 
@@ -37,7 +41,7 @@ Five bedrooms across two floors; downstairs parents' suite and guest room; open 
 | Separate living room with furniture and walking route | [PNG](outputs/latur-home-separate-living.png) | [SVG](outputs/latur-home-separate-living.svg) |
 | Original American layout with rear great room | [PNG](outputs/american-family-house.png) | [SVG](outputs/american-family-house.svg) |
 
-The initial interactive room-grouping fragment is in [concepts/home-concept.html](concepts/home-concept.html). It was written for the conversation's visualization runtime; its original tabs and theme need that runtime. The PNG drawings above can be viewed directly on GitHub from any device with repository access.
+The initial interactive room-grouping fragment is in [concepts/home-concept.html](concepts/home-concept.html). It was written for the conversation's visualization runtime; its original tabs and theme need that runtime. The PNG drawings above can be viewed directly on GitHub from any device.
 
 ## Brief and design history
 
