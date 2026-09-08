@@ -6,6 +6,16 @@ Work on the main floor first. Keep the selected ivory exterior and current floor
 
 Design review 01 is prepared: compact-area budget sensitivity, move-in furnishing gap, and a current-plan living-room clearance and services audit. Budget route and compass direction remain pending; no layout has been resized. Read DESIGN-REVIEW-01.md or open Design review 01 from the website Downloads page.
 
+## Additional work prepared
+
+- [x] Five room-plan detail crops generated directly from furniture revision 03.
+- [x] All 31 static furniture footprints checked for overlaps; none found. Dynamic clearances remain unresolved.
+- [x] Kitchen/dining, bedrooms, utility/wet-area and upper-floor coordination briefs published on separate website pages.
+- [x] Contractor quotation scope and comparison template prepared; no quotations received.
+- [ ] Complete final geometry, images, services and engineering after the required decisions and site inputs.
+
+These completed drafting tasks do not substitute for the final coordination and approvals listed below. Open the Room-by-room coordination work link from Interiors or Downloads.
+
 ## 1. Resolve area versus budget
 
 - [x] Compare the current enlarged two-storey design with the ₹45 lakh total target. The existing estimate identifies a mismatch; do not treat the current visual model as a confirmed ₹45 lakh build.
@@ -74,7 +84,7 @@ Deliverable: a more complete main-floor walkthrough with clearly documented rema
 - [ ] Obtain site/soil information and structural engineering for foundations, columns, beams and slabs; visualization geometry does not determine structural sizes.
 - [ ] Produce coordinated architectural, structural, electrical and plumbing drawings and a quantity-based specification.
 - [ ] Compare contractor quotations on the same scope, including exclusions, taxes and milestones.
-- [ ] Confirm the Vercel deployment and shared family link work with the latest files.
+- [x] Confirm the public Vercel family link is accessible without login: https://hm-two-alpha.vercel.app. Design review 01 was verified live on 8 September 2026; each new publication still needs its own page check.
 
 ## Already available
 

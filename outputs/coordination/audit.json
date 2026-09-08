@@ -1,0 +1,45 @@
+{
+  "checks": [
+    [
+      "Living: coffee table to primary sofa",
+      2.0,
+      "Nominal clear gap; preserve when choosing actual furniture."
+    ],
+    [
+      "Living: conversation sofa to rear boundary",
+      1,
+      "Not a walking passage."
+    ],
+    [
+      "Kitchen: front counter to island",
+      3.5,
+      "Subtract handles and open drawers during use checks."
+    ],
+    [
+      "Kitchen: island to right counter",
+      5.5,
+      "Check actual appliances and door opening."
+    ],
+    [
+      "Guest: bed to right wall",
+      4.25,
+      "Bedside table occupies part of this zone."
+    ],
+    [
+      "Parents: bed head to right wall",
+      0.5,
+      "Headboard gap, not a passage."
+    ],
+    [
+      "Laundry: left boundary to washer",
+      3,
+      "A geometric gap, not verified appliance service clearance."
+    ],
+    [
+      "Store: between opposite shelf edges",
+      3.5,
+      "Cross-shelf and doorway reduce useful area locally."
+    ]
+  ],
+  "overlaps": []
+}
