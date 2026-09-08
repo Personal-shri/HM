@@ -2,9 +2,13 @@
 
 Work on the main floor first. Keep the selected ivory exterior and current floor plan as the design reference. The ₹45 lakh target includes construction, basic interiors and approvals; land is already owned. These tasks are proposed next steps, not completed design decisions.
 
+## Current progress
+
+Design review 01 is prepared: compact-area budget sensitivity, move-in furnishing gap, and a current-plan living-room clearance and services audit. Budget route and compass direction remain pending; no layout has been resized. Read DESIGN-REVIEW-01.md or open Design review 01 from the website Downloads page.
+
 ## 1. Resolve area versus budget
 
-- [ ] Compare the current enlarged two-storey design with the ₹45 lakh total target. The existing estimate identifies a mismatch; do not treat the current visual model as a confirmed ₹45 lakh build.
+- [x] Compare the current enlarged two-storey design with the ₹45 lakh total target. The existing estimate identifies a mismatch; do not treat the current visual model as a confirmed ₹45 lakh build.
 - [ ] Choose a route: reduce enclosed area, phase the build with an engineer-designed full-building structure, or revise the budget.
 - [ ] Prepare a revised allocation for structure, exterior, services, interiors, approvals and contingency using local contractor quotations.
 
